@@ -51,7 +51,7 @@ Password: 123456
 
 Email: spyrydonov.oleksandr@gmail.com
 
-Project Link: https://github.com/OSpyrydonov/todo-app
+Project Link: https://github.com/OSpyrydonov/nextjs-dashboard
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
